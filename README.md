@@ -1,4 +1,9 @@
+
 # React + Vite
+
+
+![Cover](https://github.com/user-attachments/assets/f328e65c-b3de-43d3-9529-91ab545d8689)
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
