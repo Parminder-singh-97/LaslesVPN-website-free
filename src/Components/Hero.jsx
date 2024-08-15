@@ -3,7 +3,7 @@ import React from "react";
 const Hero = () => {
   return (
     <>
-      <div className="container pt-sm-5 pt-md-0 pt-lg-0 pt-5  vh-100 d-flex justify-content-between align-items-center">
+      <div className="container pt-sm-5 pt-md-0 pt-lg-0 pt-5  vh-100 d-flex justify-content-between align-items-center " id="Hero">
         <div className="row mx-4" >
 
           <div className="col-sm-12 col-md-6 col-lg-6 col-12 d-flex flex-column text-start gap-4 " data-aos="fade-up" data-aos-duration="2000" >

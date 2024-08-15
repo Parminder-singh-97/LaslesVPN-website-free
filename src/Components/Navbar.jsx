@@ -19,11 +19,11 @@ function NavScrollExample() {
             style={{ maxHeight: "100px" }}
             navbarScroll
           >
-            <Nav.Link href="#action1">About</Nav.Link>
-            <Nav.Link href="#action2">Features</Nav.Link>
-            <Nav.Link href="#action2">Pricing</Nav.Link>
-            <Nav.Link href="#action2">Testimonials</Nav.Link>
-            <Nav.Link href="#action2">Help</Nav.Link>
+            <Nav.Link href="#Hero">About</Nav.Link>
+            <Nav.Link href="#Features">Features</Nav.Link>
+            <Nav.Link href="#Plans">Pricing</Nav.Link>
+            <Nav.Link href="#HappyCus">Testimonials</Nav.Link>
+            <Nav.Link href="#footer">Help</Nav.Link>
           </Nav>
 
           <div className="">
