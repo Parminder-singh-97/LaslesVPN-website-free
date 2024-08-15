@@ -1,0 +1,22 @@
+  .orange{
+    background-color: #F53838;
+    color: white;
+  }
+
+  p{
+
+    font-size: 0.9rem;
+  }
+
+  .hover {
+    
+   transition: all 0.5s ease;
+   
+  
+  }
+  
+  .hover:hover {
+  border: 2px solid #F53838;
+  scale: 1.01;
+  
+  }
